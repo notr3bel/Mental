@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="180" height="180" role="img" aria-label="Mindful Log logo">
+  <title>Mindful Log — brain logo</title>
+  <rect width="120" height="120" rx="20" fill="#f5f7fb" />
+  <g transform="translate(12 18)" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 8c-6 0-10 4-12 8-3 6-2 14 6 18 3 2 6 2 9 2"/>
+    <path d="M60 8c6 0 10 4 12 8 3 6 2 14-6 18-3 2-6 2-9 2"/>
+    <path d="M30 28c-4 2-6 6-6 10 0 8 8 14 18 14s18-6 18-14c0-4-2-8-6-10"/>
+    <path d="M36 8c0 6-6 8-12 8"/>
+    <path d="M60 8c0 6 6 8 12 8"/>
+    <path d="M36 56c2 2 6 2 8 0"/>
+  </g>
+</svg>
