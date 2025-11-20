@@ -296,7 +296,7 @@ export default function Results({ assessmentId, onBack }: ResultsProps) {
                 <div className="mb-8">
                   <p className="text-base font-bold text-gray-800 mb-4">Choose your preferred language:</p>
                   <div className="flex flex-wrap gap-3">
-                    {(['Hindi', 'Tamil', 'Kannada', 'Malayalam', 'Telugu'] as Language[]).map((language) => (
+                    {(['Hindi', 'Tamil', 'Kannada', 'Malayalam', 'Telugu', 'English'] as Language[]).map((language) => (
                       <button
                         key={language}
                         onClick={() => handleLanguageSelect(language)}
